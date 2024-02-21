@@ -8,6 +8,7 @@ Shortly after Type 1 diabetes (T1D) diagnosis and initiation of insulin therapy,
 
 ## Requirements:
 R>=4.6.1
+
 Python>=3.6
 
 
@@ -17,9 +18,15 @@ To make the R code run, we provided a test dataset (./data/targetcell.rds) gener
 
 ## Installation guide & Demo:
 Please refer to the instructions for the following standard processes:
+
 Seurat (https://github.com/satijalab/seurat)
+
 Scanpy (https://github.com/scverse/scanpy)
+
 SCENIC (https://github.com/aertslab/SCENIC)
+
 Monocle3 (https://github.com/cole-trapnell-lab/monocle3)
+
 CellTypist (https://www.celltypist.org)
+
 CellChat (https://github.com/sqjin/CellChat)
